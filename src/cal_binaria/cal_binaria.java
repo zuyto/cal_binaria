@@ -20,6 +20,7 @@ public class cal_binaria extends Frame implements ActionListener{
     int o1;
     int o2;
     int res;
+    int h;
 
     public cal_binaria() {
         MAOLayout customLayout = new MAOLayout();
